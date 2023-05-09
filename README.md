@@ -4,23 +4,7 @@
 ---
 
 ### :man_technologist: Обо мне:
-Я веб разработчик из Нижнего Новгорода <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Развиваюсь в строну Frontend и активно изучаю новые технологии для повышения качества моих проектов и оптимизации рабочего процесса.
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eugene_maikov2000) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugene-maikov2000@yandex.ru)
-
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="[https://vk.com/f1ll_zzz](https://vk.com/eugene_maikov)" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-    <a href="[https://instagram.com/eugene_maikov?igshid=NTc4MTIwNjQ2YQ==](https://instagram.com/eugene_maikov?igshid=NTc4MTIwNjQ2YQ==)" target="_blank">
-      <img src="https://i.ibb.co/zrWkkWm/1491580635-yumminkysocialmedia26-83102.png" width="40" height="40" alt="Instagram Badge"/>
-    </a>
-  </div>
+Я веб разработчик из Нижнего Новгорода <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Развиваюсь в строну Frontend и активно изучаю новые технологии для повышения качества моих проектов и оптимизации рабочего процесса. Есть опыт в верстке и программировании реальных коммерческих проектов. Отлично работаю в команде и всегда открыт для обсуждения любых рабочих моментов.
 
 ---
 
@@ -55,3 +39,13 @@
 <!--  Figma  -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </div>
+
+---
+
+### 🤝 Контакты:
+
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eugene_maikov2000)
+  [![Viber](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](https://skobelkin.ru/viber/79026864084)
+  [![Viber](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://skobelkin.ru/whatsapp/79026864084)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugene-maikov2000@yandex.ru)
+  [![Vkontakte](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)]([mailto:eugene-maikov2000@yandex.ru](https://vk.com/eugene_maikov))

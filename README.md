@@ -17,6 +17,9 @@
     <a href="[https://vk.com/f1ll_zzz](https://vk.com/eugene_maikov)" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
+    <a href="[https://instagram.com/eugene_maikov?igshid=NTc4MTIwNjQ2YQ==](https://instagram.com/eugene_maikov?igshid=NTc4MTIwNjQ2YQ==)" target="_blank">
+      <img src="https://i.ibb.co/zrWkkWm/1491580635-yumminkysocialmedia26-83102.png" width="40" height="40" alt="Instagram Badge"/>
+    </a>
   </div>
 
 ---

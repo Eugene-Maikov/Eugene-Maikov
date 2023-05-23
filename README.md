@@ -21,10 +21,10 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <!--  git  -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<!--  gulp  -->
-    <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gulp_icon_130557.png" width="36" height="36" alt="gulp" /></a>
 <!--  webpack  -->
     <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" width="36" height="36" alt="webpack" /></a>
+  <!--  gulp  -->
+    <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gulp_icon_130557.png" width="36" height="36" alt="gulp" /></a>
 <!--  sass  -->
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <!--  Babel  -->
